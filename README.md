@@ -13,7 +13,7 @@
 
 **Original website link**: [Original Website](https://trackingtime.co/)
 
-**Link of our deployed project**: [Our Website](https://timetrcak.netlify.app/)
+**Link of our deployed project**: [Our Website](https://trackingtime-clone.vercel.app/)
 
 ## Tech Stack and features
 - React
